@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing smartphone sales across India — comparing brand performance, monthly sales trends, city-wise distribution, payment methods, and customer satisfaction in a single executive view.
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 📊 Overview
 
